@@ -6,7 +6,7 @@ from torchvision.transforms.functional import InterpolationMode
 from transformers import AutoModel, AutoTokenizer, AutoConfig
 
 # ─── Config ───────────────────────────────────────────────────────────────
-MODEL_NAME   = "OpenGVLab/InternVL3-1B"
+MODEL_NAME   = "OpenGVLab/InternVL3-14B"
 INPUT_SIZE   = 448
 MAX_PATCHES  = 12
 GEN_CONFIG   = dict(max_new_tokens=1024, do_sample=True)
@@ -110,4 +110,4 @@ def infer(image_path):
     print("Assistant:", response)
 
 if __name__ == "__main__":
-    infer("TNS_0957_I.jpg")
+    infer("toy_ds/images/TNS_3773_I.jpg")
