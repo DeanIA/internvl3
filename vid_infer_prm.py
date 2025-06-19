@@ -27,6 +27,7 @@ model = AutoModel.from_pretrained(
     torch_dtype=torch.bfloat16,
     low_cpu_mem_usage=True,
     use_flash_attn=True,
+    device_map="auto",
     trust_remote_code=True).eval().cuda()
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, trust_remote_code=True)
 

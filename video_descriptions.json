@@ -1,0 +1,22 @@
+{
+  "TNS_0001_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0002_V.MP4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0075_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0169_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0194_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0210_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0340_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0420_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0456_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_0478_V.mp4": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_2238_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_2241_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_2549_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_2559_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_3042_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_3440_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_3740_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_3773_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_4031_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+  "TNS_4602_I.jpg": "Error: CUDA error: device-side assert triggered\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n"
+}
